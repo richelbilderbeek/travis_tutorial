@@ -2,19 +2,22 @@
 
 Tutorial how to use Travis CI.
 
-## Programming languages
+## Programming languages and platforms
 
 ### Arduino
 
  * [arduino](https://github.com/richelbilderbeek/travis_arduino)
-
-(sure, `arduino` is just C++)
 
 ### C++
 
  * [arduino](https://github.com/richelbilderbeek/travis_arduino)
  * [Travis C++ tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
  * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
+ * [NDS tutorial](https://github.com/richelbilderbeek/nds_tutorial)
+
+### Nintendo DS
+
+ * [NDS tutorial](https://github.com/richelbilderbeek/nds_tutorial)
 
 ### Processing
 
@@ -41,7 +44,6 @@ Tutorial how to use Travis CI.
 
  * [test](https://github.com/richelbilderbeek/travis_test): a minimal test
  * [pipeline](https://github.com/richelbilderbeek/travis_example_pipeline): a simple pipeline
-
 
 ## Articles, documentation, podcasts
 

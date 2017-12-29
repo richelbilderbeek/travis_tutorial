@@ -6,12 +6,15 @@ Tutorial how to use Travis CI.
 
 ### Arduino
 
- * [arduino](https://github.com/richelbilderbeek/travis_arduino) (also found under C++)
+ * [arduino](https://github.com/richelbilderbeek/travis_arduino)
+
+(sure, `arduino` is just C++)
 
 ### C++
 
  * [arduino](https://github.com/richelbilderbeek/travis_arduino)
  * [Travis C++ tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+ * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
 
 ### Processing
 
@@ -28,6 +31,7 @@ Tutorial how to use Travis CI.
  * [cowsay](https://github.com/richelbilderbeek/travis_cowsay)
  * [lyx](https://github.com/richelbilderbeek/travis_lyx)
  * [oclint](https://github.com/richelbilderbeek/travis_oclint)
+ * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
  * [proselint](https://github.com/richelbilderbeek/travis_proselint)
  * [shunit2](https://github.com/richelbilderbeek/travis_shunit2)
  * [spell](https://github.com/richelbilderbeek/travis_spell)

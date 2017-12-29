@@ -32,6 +32,7 @@ Tutorial how to use Travis CI.
  * [lyx](https://github.com/richelbilderbeek/travis_lyx)
  * [oclint](https://github.com/richelbilderbeek/travis_oclint)
  * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
+ * [pandoc](https://github.com/richelbilderbeek/travis_pandoc)
  * [proselint](https://github.com/richelbilderbeek/travis_proselint)
  * [shunit2](https://github.com/richelbilderbeek/travis_shunit2)
  * [spell](https://github.com/richelbilderbeek/travis_spell)

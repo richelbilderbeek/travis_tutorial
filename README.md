@@ -32,6 +32,7 @@ Tutorial how to use Travis CI.
  * [aspell](https://github.com/richelbilderbeek/travis_aspell)
  * [convert](https://github.com/richelbilderbeek/travis_convert) (from ImageMagick)
  * [cowsay](https://github.com/richelbilderbeek/travis_cowsay)
+ * [markdown-link-check](https://github.com/richelbilderbeek/travis_markdown-link-check)
  * [lyx](https://github.com/richelbilderbeek/travis_lyx)
  * [oclint](https://github.com/richelbilderbeek/travis_oclint)
  * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
@@ -39,6 +40,7 @@ Tutorial how to use Travis CI.
  * [proselint](https://github.com/richelbilderbeek/travis_proselint)
  * [shunit2](https://github.com/richelbilderbeek/travis_shunit2)
  * [spell](https://github.com/richelbilderbeek/travis_spell)
+ * [travis_cli](https://github.com/richelbilderbeek/travis_travis_cli)
 
 ## Misc
 

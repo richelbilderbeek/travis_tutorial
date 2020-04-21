@@ -15,6 +15,10 @@ Tutorial how to use Travis CI.
  * [MXE tutorial](https://github.com/richelbilderbeek/mxe_tutorial)
  * [NDS tutorial](https://github.com/richelbilderbeek/nds_tutorial)
 
+### `make`
+
+ * [make](https://github.com/richelbilderbeek/travis_make_tutorial)
+
 ### Nintendo DS
 
  * [NDS tutorial](https://github.com/richelbilderbeek/nds_tutorial)
